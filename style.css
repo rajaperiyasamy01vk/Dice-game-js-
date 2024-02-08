@@ -334,8 +334,8 @@ svg{
     }
     
     .history svg{
-        width: 20px;
-        height: 20px;
+        width: 15px;
+        height: 15px;
     }
     
     
@@ -388,8 +388,8 @@ svg{
     }
     
     .rule svg{
-        width: 20px;
-        height: 20px;
+        width: 15px;
+        height: 15px;
     }
     
 }
@@ -436,8 +436,8 @@ svg{
     }
     
   .contact  svg{
-        width: 20px;
-        height: 20px;
+        width: 15px;
+        height: 15px;
     }
     
 }
@@ -484,8 +484,17 @@ svg{
     }
     
    .help  svg{
-        width: 20px;
-        height: 20px;
+        width: 15px;
+        height: 15px;
     }
+    
+}
+
+@media (max-heigth:400px) {
+    
+    .help {
+        height: 60vh ;
+    }
+    
     
 }
