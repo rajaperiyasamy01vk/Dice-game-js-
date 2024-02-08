@@ -490,10 +490,10 @@ svg{
     
 }
 
-@media (max-heigth:400px) {
+@media (max-heigth:500px) {
     
     .help {
-        height: 60vh ;
+        height: 80vh ;
     }
     
     
